@@ -1,0 +1,13 @@
+{
+  "name": "Phoenix Reserve Token",
+  "symbol": "PHX",
+  "description": "PHX is a utility + reserve token designed to power the Phoenix ecosystem and support future gold-backed assets.",
+  "image": "https://raw.githubusercontent.com/AJTuroa/phx-metadata/main/phx.png",
+  "extensions": {
+    "website": "https://placeholder.phx.dev/",
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/AJTuroa/phx-metadata"
+  },
+  "tags": ["utility", "reserve", "gold-backed", "finance"],
+  "creator": "AJ Turoa / Phoenix Reserve"
+}
